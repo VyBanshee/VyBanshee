@@ -1,5 +1,8 @@
+![Banner](https://github.com/VyBanshee/images/blob/main/software-computer-code-1940x900_35196.jpg)
+---
 # 💫 About Me:
-I'm a fullstack developer, and I like Anime! My goal is to build innovative web applications, and I enjoy exploring different tech stacks to solve complex problems and create user-friendly experiences.
+I'm a fullstack developer, and I love Japan! My goal is to build innovative web applications, and I enjoy exploring different tech stacks to solve complex problems and create user-friendly experiences.
+
 
 
 ## 🌐 Socials:
